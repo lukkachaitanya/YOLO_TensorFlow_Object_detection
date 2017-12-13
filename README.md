@@ -1,20 +1,18 @@
-# YOLO_tensorflow
+#  YOLO-TensorFlow
+##You Only Look Once
 
-(Version 0.3, Last updated :2017.02.21)
+## View the demo below
+[![Demo](https://i.imgur.com/JPtKlMS.jpg)](https://www.youtube.com/watch?v=fmECqn2-kDY "YOLO")
 
-### 1.Introduction
 
+### Install
 
-### 2.Install
-
-(2) Download YOLO weight file from
+ Download YOLO weight file from
 
 YOLO_small : https://drive.google.com/file/d/0B2JbaJSrWLpza08yS2FSUnV2dlE/view?usp=sharing
+Put the 'YOLO_(version).ckpt' in the 'weight' folder of downloaded code
 
-
-(3) Put the 'YOLO_(version).ckpt' in the 'weight' folder of downloaded code
-
-### 3.Usage
+### Usage
 
 (1) direct usage with default settings (display on console, show output image, no output file writing)
 
@@ -53,4 +51,3 @@ YOLO_small : https://drive.google.com/file/d/0B2JbaJSrWLpza08yS2FSUnV2dlE/view?u
 - Opencv2
 
 
-# YOLO_TensorFlow_Object_detection
